@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Sky 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=600&lines=MSCS+Student+%40+Northeastern+University+%2727;AI+for+Healthcare+%7C+AI+for+Education;Building+intelligent+systems+that+matter" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/DoubleSky123">
-    <img src="https://img.shields.io/github/followers/DoubleSky123?label=Follow&style=social" />
-  </a>
-</p>
+  <p align="center">                                                                                                                                                              
+    <a href="https://github.com/DoubleSky123">
+      <img src="https://img.shields.io/github/followers/DoubleSky123?label=Follow&style=social" />                                                                                
+    </a>                                                    
+    &nbsp;
+    <a href="https://www.linkedin.com/in/kunyishi/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
 
 ---
 
